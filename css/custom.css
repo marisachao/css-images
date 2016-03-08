@@ -1,4 +1,5 @@
 /*your custom CSS here*/
 heading {
   background-image: url ("img/heading.jpg");
+  background-repeat: no-repeat;
 }
