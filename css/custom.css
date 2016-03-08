@@ -1,9 +1,6 @@
 /*your custom CSS here*/
-body {
-  background-image:url(../img/heading.jpg);
-}
 
-.heading {
+heading {
   background-image: url(../img/heading.jpg);
   background-repeat: no-repeat;
 }
