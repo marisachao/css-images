@@ -9,9 +9,11 @@
   background-color: #003366;
   margin-bottom: 20px;
 }
-h1 {
+.heading h1 {
   text-align: center;
   color: white; 
+  font-size: 50px;
+  width: 100%;
 }
 body {
   background-image: url(../img/metal.jpg);
