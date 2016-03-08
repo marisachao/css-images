@@ -6,11 +6,11 @@
   height: 300px;
   width: 100%;
   background-position: center top;
+  background-color: #008fb3;
 }
 h1 {
   text-align: center;
   color: white; 
-  background-color: blue;
 }
 body {
   background-image: url(../img/metal.jpg);
