@@ -3,4 +3,6 @@
 .heading {
   background-image: url(../img/heading.jpg);
   background-repeat: no-repeat;
+  height: 300px;
+  width: 100%;
 }
