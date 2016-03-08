@@ -3,10 +3,10 @@
 .heading {
   background-image: url(../img/heading.jpg);
   background-repeat: no-repeat;
-  height: 300px;
+  height: 400px;
   width: 100%;
-  background-position: center top;
-  background-color: #008fb3;
+  background-position: center;
+  background-color: #003366;
   margin-bottom: 20px;
 }
 h1 {
